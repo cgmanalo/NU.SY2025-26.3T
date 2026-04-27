@@ -1,2 +1,2 @@
-# CEDYNA20
-Student scores for CEDYNA20
+# NU.SY2025-26.3T
+Student scores for NU.SY2025-26.3T
